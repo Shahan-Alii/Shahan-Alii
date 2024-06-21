@@ -14,19 +14,19 @@ I'm a MERN Stack Developer with a fervor for crafting cutting-edge and intuitive
 | **Cocktails DB** |  This platform features a variety of drinks, offering detailed information about each beverage for users. |  [Demo](http://ahadali-cocktailsdb.netlify.app) |
 
 ## Stats:
-&nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/Shahan-Alii)
-![Profile Views](https://komarev.com/ghpvc/?username=ahadalireach&style=flat&color=blue)
+&nbsp;[![](https://img.shields.io/github/followers/Shahan-Alii?style=flat&color=blue&label=Followers&logo=github)](https://github.com/Shahan-Alii)
+![Profile Views](https://komarev.com/ghpvc/?username=Shahan-Alii&style=flat&color=blue)
 [![wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
 <img src="https://img.shields.io/badge/Languages-Javascript | React | Node | Express | MongoDB | SQL -green.svg" alt="supun nanayakkara's languages" />
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ahadalireach&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ahad Ali github stats" />  |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadalireach&layout=compact" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadalireach&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Shahan-Alii&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ahad Ali github stats" />  |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahan-Alii&layout=compact" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahan-Alii&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | ------------- | ------------- | ------------- |
 
 ## Portfolio:
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://ahadali.netlify.app/)
 
 ## Contact Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahadalireach) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahadalireach) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadalireach) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahadalireach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahadali.reach@gmail.com)](mailto:ahadali.reach@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shahan-Alii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shahan-Alii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shahan-Alii) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Shahan-Alii) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahadali.reach@gmail.com)](mailto:ahadali.reach@gmail.com) 
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
