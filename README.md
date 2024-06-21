@@ -14,7 +14,7 @@ I'm a MERN Stack Developer with a fervor for crafting cutting-edge and intuitive
 | **Cocktails DB** |  This platform features a variety of drinks, offering detailed information about each beverage for users. |  [Demo](http://ahadali-cocktailsdb.netlify.app) |
 
 ## Stats:
-&nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/ahadalireach)
+&nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/Shahan-Alii)
 ![Profile Views](https://komarev.com/ghpvc/?username=ahadalireach&style=flat&color=blue)
 [![wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
 <img src="https://img.shields.io/badge/Languages-Javascript | React | Node | Express | MongoDB | SQL -green.svg" alt="supun nanayakkara's languages" />
