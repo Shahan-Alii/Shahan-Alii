@@ -8,16 +8,16 @@ I'm a MERN Stack Developer with a fervor for crafting cutting-edge and intuitive
 ## Projects:
 | Name | Description | Demo
 | ----------- | ------ | ------ |
-| **Jobify** | A platform for easily finding jobs, connecting users with employment opportunities. |  [Demo](http://ahadali-jobify.netlify.app) |
-| **Beach Resort** | This site assists beach tourists by providing valuable details on available rooms for rent, enhancing their overall experience and convenience.| [Demo](http://ahadali-beachresort.netlify.app) |
-| **The Fit Club** | Designed for fitness enthusiasts. Experience vibrant design, dynamic content, and seamless user interaction. | [Demo](http://ahadali-gymwebsite.netlify.app) |
-| **Cocktails DB** |  This platform features a variety of drinks, offering detailed information about each beverage for users. |  [Demo](http://ahadali-cocktailsdb.netlify.app) |
+| **Red Store** | A E-Commerce Website demo design using only Html,CSS ANd Js | [Demo](https://shahan-alii.github.io/redStore/) |
+| **Password Generator** |Developed A password generator react app that generates random password of given length and with additional preferences.| [Demo](https://shahanali-password-generator.netlify.app/) |
+| **Todo App** | Developed A  Todo App with local storage where we can add a todo, toggle its completion , edit or delete it . | [Demo](https://shahan-todowithlocalstorage.netlify.app/) |
+| **Currency Convertor App** |  Developed A  currency converter react app that uses API to fetch data and convert the given amount of one currency to another currency |  [Demo](https://shahan-ali-currencyconvertor.netlify.app/) |
 
 ## Stats:
 &nbsp;[![](https://img.shields.io/github/followers/Shahan-Alii?style=flat&color=blue&label=Followers&logo=github)](https://github.com/Shahan-Alii)
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahan-Alii&style=flat&color=blue)
 [![wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
-<img src="https://img.shields.io/badge/Languages-Javascript | React | Node | Express | MongoDB | SQL -green.svg" alt="supun nanayakkara's languages" />
+<img src="https://img.shields.io/badge/Languages-Javascript | React | React Native | Express | MySQL | C#/.NET | C/C++ -green.svg" alt="supun nanayakkara's languages" />
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Shahan-Alii&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ahad Ali github stats" />  |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahan-Alii&layout=compact" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahan-Alii&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | ------------- | ------------- | ------------- |
@@ -32,4 +32,4 @@ I'm a MERN Stack Developer with a fervor for crafting cutting-edge and intuitive
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🖤 by <a href="http://ahadali.netlify.app">Ahad Ali</a></p>
+<p align="right" > Created with 🖤 by <a href="http://shahanali.netlify.app">Shahan Ali</a></p>
