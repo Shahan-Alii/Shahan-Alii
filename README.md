@@ -10,9 +10,7 @@ I am Shahan Ali, a expert MERN Stack developer with 4 years of hands-on experien
 | Name | Description | Demo
 | ----------- | ------ | ------ |
 | **Signal Mobile App** |  Developed A  real-time chat application with authenticated login on react native using socket , mongoDB,Restful Api,express js  |  [Demo](https://github.com/Shahan-Alii/Signal-app/) |
-| **Flavor Spark** |  Developed a food recipe app where you can find recpie details and
-videos based on categories and search
- |  [Demo](https://github.com/Shahan-Alii/FlavorSpark) |
+| **Flavor Spark** |  Developed a food recipe app where you can find recpie details and videos based on categories and search |  [Demo](https://github.com/Shahan-Alii/FlavorSpark) |
 | **Red Store** | A E-Commerce Website demo design using only Html,CSS ANd Js | [Demo](https://shahan-alii.github.io/redStore/) |
 | **Password Generator** |Developed A password generator react app that generates random password of given length and with additional preferences.| [Demo](https://shahanali-password-generator.netlify.app/) |
 | **Todo App** | Developed A  Todo App with local storage where we can add a todo, toggle its completion , edit or delete it . | [Demo](https://shahan-todowithlocalstorage.netlify.app/) |
