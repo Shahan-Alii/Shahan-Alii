@@ -1,6 +1,6 @@
 ## Hey there 👋, my name is Shahan Ali
 
-I am Shahan Ali, a expert MERN Stack developer with 4 years of hands-on experience mastering HTML, CSS, JavaScript, React Js, and Node Js. With a strong command of both frontend and backend development, I specialize in crafting responsive interfaces and building robust server-side applications. Let's join forces and turn your visions into tangible digital experiences!
+I am Shahan Ali, a expert MERN Stack developer with 1.5 years of hands-on experience mastering HTML, CSS, JavaScript, React Js, and Node Js. With a strong command of both frontend and backend development, I specialize in crafting responsive interfaces and building robust server-side applications. Let's join forces and turn your visions into tangible digital experiences!
 
 
 ## Languages and Tools:
