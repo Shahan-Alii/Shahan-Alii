@@ -16,6 +16,7 @@ I am Shahan Ali, a expert MERN Stack developer with 1.5 years of hands-on experi
 | **Password Generator** |Developed A password generator react app that generates random password of given length and with additional preferences.| [Demo](https://shahanali-password-generator.netlify.app/) |
 | **Todo App** | Developed A  Todo App with local storage where we can add a todo, toggle its completion , edit or delete it . | [Demo](https://shahan-todowithlocalstorage.netlify.app/) |
 | **Currency Convertor App** |  Developed A  currency converter react app that uses API to fetch data and convert the given amount of one currency to another currency |  [Demo](https://shahan-ali-currencyconvertor.netlify.app/) |
+| **Omnitrix** |  Created a animated ben10 watch |  [Demo](https://github.com/Shahan-Alii/ben10) |
 
 
 ## Stats:
