@@ -18,6 +18,7 @@ I am Shahan Ali, a expert MERN Stack developer with 1.5 years of hands-on experi
 | **Currency Convertor App** |  Developed A  currency converter react app that uses API to fetch data and convert the given amount of one currency to another currency |  [Demo](https://shahan-ali-currencyconvertor.netlify.app/) |
 | **Omnitrix** |  Created a animated ben10 watch |  [Demo](https://github.com/Shahan-Alii/ben10) |
 
+| **DonutStore** |  Created a animated onut slider animation with React Native reanimated |  [Demo](https://github.com/Shahan-Alii/AnimatedScrollView2) |
 
 ## Stats:
 &nbsp;[![](https://img.shields.io/github/followers/Shahan-Alii?style=flat&color=blue&label=Followers&logo=github)](https://github.com/Shahan-Alii)
